@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/Azure/azure-dev/main/schemas/v1.0/azure.yaml.json
 
-name: azd-privatelinkprivateendpoint
+name: tdd-privatelinkprivateendpoint
 metadata:
-  template: azd-privatelinkprivateendpoint@0.0.1-beta
+  template: tdd-privatelinkprivateendpoint@0.0.1-beta
 infra:
    provider: "bicep"
